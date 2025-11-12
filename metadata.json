@@ -1,0 +1,5 @@
+{
+  "name": "YT Summarizer Pro",
+  "description": "An application that transforms long-form YouTube video lectures into concise, digestible, and shareable summaries using AI. Ideal for students and lifelong learners to quickly extract key insights.",
+  "requestFramePermissions": []
+}
